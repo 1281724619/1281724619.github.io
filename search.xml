@@ -19,6 +19,84 @@
 ]]></content>
   </entry>
   <entry>
+    <title>度盘秒传链接脚本使用教程！保姆级，包教包会！</title>
+    <url>/2023/05/03/%E5%BA%A6%E7%9B%98%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%81%E4%BF%9D%E5%A7%86%E7%BA%A7%EF%BC%8C%E5%8C%85%E6%95%99%E5%8C%85%E4%BC%9A%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="度盘秒传使用教程"><a href="#度盘秒传使用教程" class="headerlink" title="度盘秒传使用教程"></a>度盘秒传使用教程</h1><h2 id="开头"><a href="#开头" class="headerlink" title="开头"></a>开头</h2><p>大家好呀，我是繁花落雪，这是我博客的第一篇文章，也是第一篇教程。</p>
+<p>首先我先在这里自我介绍一下，我叫繁花落雪，是一个热爱技术，热爱分享的人，我非常的希望自己的经验和知识能够帮助到别人，当然我自己的知识储备并不多，所以我总是边学边分享。</p>
+<p>接下来的教程我希望大家能够认真的阅读文章哦。</p>
+<p>那么接下来我们开始吧！</p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>我们首先先需要准备一些东西，秒传其实是油猴的一个脚本，所以我们如果想在浏览器上使用秒传的话那么我们就需要先安装油猴。</p>
+<p>首先我们需要准备一下东西</p>
+<blockquote>
+<p>1.支持安装拓展的浏览器</p>
+<p>2.油猴插件、</p>
+<p>3.秒传脚本</p>
+</blockquote>
+<p>以上三样就是我们本期教程所要用到的东西。</p>
+<h2 id="1-安装支持拓展的浏览器"><a href="#1-安装支持拓展的浏览器" class="headerlink" title="1.安装支持拓展的浏览器"></a>1.安装支持拓展的浏览器</h2><p>市面上支持安装拓展的浏览器有很多，比如说：Googel chrome（谷歌浏览器），Firefox（火狐浏览器）,Edge（微软的）</p>
+<p>当然支持拓展的浏览器还有很多，我这里只列举了几个大家比较常用的浏览器，当然还有其他浏览器也可以。</p>
+<p>油猴的官网支持chrome，edge，firefox，safari，opera next浏览器，在他们官网可以下载到对应的插件。</p>
+<p>大家想要下载浏览器可以点击下面的链接。</p>
+<h4 id="链接总结"><a href="#链接总结" class="headerlink" title="链接总结"></a>链接总结</h4><p>1.<a href="http://www.firefox.com.cn/">火狐浏览器</a></p>
+<p>2.<a href="https://www.google.cn/chrome/">chrome浏览器</a></p>
+<p>3.<a href="https://www.microsoft.com/zh-cn/edge?form=MA13FJ">edge浏览器（这个win10自带）</a></p>
+<h2 id="2-安装油猴"><a href="#2-安装油猴" class="headerlink" title="2.安装油猴"></a>2.安装油猴</h2><p>1.脚本的下载</p>
+<p>首先先前往他们的官网获取相对应的脚本。</p>
+<p><img src="https://s2.loli.net/2023/05/07/QrIapDmgiEKNGkd.png" alt="屏幕截图 2023-05-07 142449.png"></p>
+<p>我这里使用的是火狐浏览器作为演示所有选择的是火狐浏览器。</p>
+<p><img src="https://s2.loli.net/2023/05/07/luGEWFkDPL4TQUi.png" alt="2.png"></p>
+<p>根据自己的需求下载对应版本的油猴，一般选择黑色的那个即可，点击去商店就可以直接在商店里面安装。</p>
+<p><img src="https://s2.loli.net/2023/05/07/UbiQjqfL1oIPsJ6.png" alt="3.png"></p>
+<h4 id="链接总结-1"><a href="#链接总结-1" class="headerlink" title="链接总结"></a>链接总结</h4><p>1.<a href="https://www.tampermonkey.net/">油猴官网</a></p>
+<p>2.<a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">油猴火狐商店下载地址</a></p>
+<p>3.<a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd">油猴edge商店下载地址</a></p>
+<p>4.<a href="https://data.tampermonkey.net/tampermonkey_stable.crx">油猴chrome脚本直链下载</a></p>
+<p>暂时总结这么多了，其他浏览器的请前往官网自行下载。</p>
+<h2 id="3-安装秒传脚本"><a href="#3-安装秒传脚本" class="headerlink" title="3.安装秒传脚本"></a>3.安装秒传脚本</h2><p>到这一步就非常简单了，我们只需要前往greasy fork下载秒传脚本即可。</p>
+<p><img src="https://s2.loli.net/2023/05/07/7VfnXtIsTip6mJL.png" alt="4.png"></p>
+<p>他们官网就是这个样子的，但是呢我这里已经安装过了。</p>
+<p><img src="https://s2.loli.net/2023/05/07/8NaVkxDz2MSQ5A7.png" alt="5.png"></p>
+<p>这个是没安装过的样子，如果你按照教程一步步走到这里，那么你只要点击‘安装此脚本’就好了。</p>
+<p><img src="https://s2.loli.net/2023/05/07/9Q17Kdiylp5FZth.png" alt="6.png"></p>
+<p><img src="https://s2.loli.net/2023/05/07/1emdfN5Ao7RZ2rI.png" alt="7.png"></p>
+<p>点击安装即可，这样就安装好了。</p>
+<h2 id="4-最后步骤"><a href="#4-最后步骤" class="headerlink" title="4.最后步骤"></a>4.最后步骤</h2><p>最后我们只需要打开度盘（<a href="https://pan.baidu.com/">度盘</a>）登录上自己的账号即可。</p>
+<p>安装好以后登录网页版度盘，顶部有下载那些按键的地方会出现这些东西。</p>
+<p><img src="https://s2.loli.net/2023/05/07/15ldtDsWp7ALeyk.png" alt="8.png"></p>
+<p>1是用来接收秒传文件的，2是用来生成秒传链接的。</p>
+<h3 id="如何接收秒传文件？"><a href="#如何接收秒传文件？" class="headerlink" title="如何接收秒传文件？"></a>如何接收秒传文件？</h3><p>点击上图1的‘秒传’那个按钮后会出现以下界面。</p>
+<p><img src="https://s2.loli.net/2023/05/07/VrZoltRQbGF7hY2.png" alt="10.png"></p>
+<p>把链接填进上面那个大的方框，然后只需要点击‘确定’就好了，如果想指定路径可以在下面方框填写，或者说进入到网盘指定目录后再转存文件也可以。</p>
+<p>秒传链接示例：</p>
+<blockquote>
+<p>5c496f9650d5adadbf23132218c753d4#4298754#gfzs-yxz.mp3</p>
+</blockquote>
+<h3 id="如何生成秒传链接？"><a href="#如何生成秒传链接？" class="headerlink" title="如何生成秒传链接？"></a>如何生成秒传链接？</h3><p>点击图中2以后会有一下界面。</p>
+<p><img src="https://s2.loli.net/2023/05/07/M3tFOdvmV4SB27g.png" alt="9.png"></p>
+<p>点击‘复制代码’即可。</p>
+<p><strong>注意！</strong></p>
+<p>需要先勾选你要分享的文件才可以生成秒传链接。</p>
+<h2 id="手机版如何使用秒传？"><a href="#手机版如何使用秒传？" class="headerlink" title="手机版如何使用秒传？"></a>手机版如何使用秒传？</h2><p>手机版比较简单，可以使用狐悠或者用油猴，这里只介绍油猴使用方法，狐悠容易出错。</p>
+<p>首先你需要先下载个‘x浏览器’</p>
+<p>然后打开greasy fork的秒传脚本下载地址。</p>
+<p><img src="https://s2.loli.net/2023/05/07/SZhITs7NBYbelvt.jpg" alt="Screenshot_2023-05-07-14-50-13-525_com.mmbox.xbro.jpg"></p>
+<p>然后开启“桌面模式”访问度盘网页版，记得一定要开“桌面模式”！</p>
+<p>然后接下来转存和生成的教程就和上面的一样了，详细请参照上文。</p>
+<p><strong>注意！</strong></p>
+<p><img src="https://s2.loli.net/2023/05/07/tYI3ik5FLPyfXrj.jpg" alt="Screenshot_2023-05-07-14-50-50-799_com.mmbox.xbro.jpg"></p>
+<p>在访问前请确保x浏览器开启了油猴脚本模式，这个是新版本新添加的功能，老版本请略过。</p>
+<h4 id="链接总结-2"><a href="#链接总结-2" class="headerlink" title="链接总结"></a>链接总结</h4><p>1.<a href="https://www.xbext.com/">x浏览器官网</a></p>
+<p>2.<a href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96">秒传脚本下载地址</a></p>
+<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p>这个教程写的真不容易，写了好久啊！如果各位觉得我的教程好的话，还请各位支持一下吧！点击下面的“打赏”即可，如果教程好的话请我喝瓶可乐吧！</p>
+<p>好了我们下期教程再见！</p>
+<p>本教程如果是商业转载请联系作者获取授权，如果是非商业转载的话请注明出处，谢谢。</p>
+<p>站长联系邮箱：<a href="mailto:&#x6e;&#x79;&#x77;&#x6c;&#x6b;&#101;&#114;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;">&#x6e;&#x79;&#x77;&#x6c;&#x6b;&#101;&#114;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;</a></p>
+]]></content>
+      <tags>
+        <tag>教程,秒传链接</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>利用vercel+github搭建属于自己的hexo博客，详细教程！</title>
     <url>/2023/08/28/%E5%88%A9%E7%94%A8vercel-github%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84hexo%E5%8D%9A%E5%AE%A2%EF%BC%8C%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%EF%BC%81/</url>
     <content><![CDATA[<h1 id="利用vercel-github部署属于自己的hexo博客"><a href="#利用vercel-github部署属于自己的hexo博客" class="headerlink" title="利用vercel+github部署属于自己的hexo博客"></a>利用vercel+github部署属于自己的hexo博客</h1><blockquote>
@@ -114,7 +192,7 @@
 </blockquote>
 <h2 id="将hexo部署到github上面"><a href="#将hexo部署到github上面" class="headerlink" title="将hexo部署到github上面"></a>将hexo部署到github上面</h2><p>修改配置文件<strong>blog&#x2F;_config.yml</strong>，修改deploy项的内容，如下所示：</p>
 <p><img src="https://cdn.fhcloud.top/img/2023/9.1/1.png" alt="config.yml"></p>
-<p>注意：type: git中的冒号后面由空格。<br>注意：将<a href="mailto:&#103;&#x69;&#116;&#x40;&#103;&#105;&#x74;&#104;&#x75;&#x62;&#x2e;&#99;&#111;&#109;">&#103;&#x69;&#116;&#x40;&#103;&#105;&#x74;&#104;&#x75;&#x62;&#x2e;&#99;&#111;&#109;</a>:xuezhisd&#x2F;xuezhisd.github.io.git中的用户名换成自己的用户名<a href="mailto:&#x67;&#105;&#x74;&#x40;&#103;&#105;&#x74;&#104;&#x75;&#98;&#x2e;&#99;&#111;&#x6d;">&#x67;&#105;&#x74;&#x40;&#103;&#105;&#x74;&#104;&#x75;&#98;&#x2e;&#99;&#111;&#x6d;</a>:github_username&#x2F;github_username.github.io.git。<br>(我用的md编辑器实在没法输入上面那种代码，所以从别人那边借了张图过来。)</p>
+<p>注意：type: git中的冒号后面由空格。<br>注意：将<a href="mailto:&#103;&#105;&#116;&#64;&#x67;&#105;&#116;&#x68;&#x75;&#98;&#x2e;&#x63;&#111;&#109;">&#103;&#105;&#116;&#64;&#x67;&#105;&#116;&#x68;&#x75;&#98;&#x2e;&#x63;&#111;&#109;</a>:xuezhisd&#x2F;xuezhisd.github.io.git中的用户名换成自己的用户名<a href="mailto:&#x67;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#98;&#46;&#x63;&#x6f;&#x6d;">&#x67;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#98;&#46;&#x63;&#x6f;&#x6d;</a>:github_username&#x2F;github_username.github.io.git。<br>(我用的md编辑器实在没法输入上面那种代码，所以从别人那边借了张图过来。)</p>
 <h4 id="部署hexo"><a href="#部署hexo" class="headerlink" title="部署hexo"></a>部署hexo</h4><p>输入下面命令将hexo博客部署到github中:</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 清空静态页面</span><br><span class="line">hexo clean</span><br><span class="line"># 生成静态页面</span><br><span class="line">hexo generate</span><br><span class="line"># 部署 </span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
 
@@ -161,7 +239,7 @@
 <li>出现以下代码报错</li>
 </ol>
 <blockquote>
-<p>FATAL Something’s wrong. Maybe you can find the solution here: <a href="https://hexo.io/docs/troubleshooting.html">https://hexo.io/docs/troubleshooting.html</a><br>Error: Spawn failed<br>    at ChildProcess.<anonymous> (&#x2F;Users&#x2F;xiangxiangyongan&#x2F;blog&#x2F;node_modules&#x2F;<a href="mailto:&#95;&#104;&#101;&#120;&#x6f;&#45;&#117;&#x74;&#105;&#108;&#64;&#49;&#x2e;&#x35;&#x2e;&#x30;">&#95;&#104;&#101;&#120;&#x6f;&#45;&#117;&#x74;&#105;&#108;&#64;&#49;&#x2e;&#x35;&#x2e;&#x30;</a>@hexo-util&#x2F;lib&#x2F;spawn.js:51:21)<br>    at ChildProcess.emit (events.js:210:5)<br>    at Process.ChildProcess._handle.onexit (internal&#x2F;child_process.js:272:12)</p>
+<p>FATAL Something’s wrong. Maybe you can find the solution here: <a href="https://hexo.io/docs/troubleshooting.html">https://hexo.io/docs/troubleshooting.html</a><br>Error: Spawn failed<br>    at ChildProcess.<anonymous> (&#x2F;Users&#x2F;xiangxiangyongan&#x2F;blog&#x2F;node_modules&#x2F;<a href="mailto:&#95;&#x68;&#101;&#120;&#111;&#45;&#117;&#x74;&#x69;&#x6c;&#64;&#x31;&#46;&#x35;&#46;&#48;">&#95;&#x68;&#101;&#120;&#111;&#45;&#117;&#x74;&#x69;&#x6c;&#64;&#x31;&#46;&#x35;&#46;&#48;</a>@hexo-util&#x2F;lib&#x2F;spawn.js:51:21)<br>    at ChildProcess.emit (events.js:210:5)<br>    at Process.ChildProcess._handle.onexit (internal&#x2F;child_process.js:272:12)</p>
 </blockquote>
 <p>这个你可以试试删除博客目录下的.deploy_git目录，当然如果还是不行你试试可以访问GitHub吗，这种报错一般不是你的问题，而是网络问题，GitHub在国内访问速度感人随缘是众所周知的，所以你可以尝试使用加速，如果是使用了加速还无法部署，那么请尝试关闭加速，然后修改host文件对GitHub进行加速。</p>
 <p>3.hexo博客部署发布成功帖子以后网页不显示新帖子，这个多半是缓存问题，你可以稍等片刻然后清空浏览器缓存再试试，如果还是没有你就去自己的仓库看看是否文件有更新，如果没有更新请重新部署。</p>
@@ -251,84 +329,6 @@
 ]]></content>
       <tags>
         <tag>教程,MySQL数据库,数据库恢复</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>度盘秒传链接脚本使用教程！保姆级，包教包会！</title>
-    <url>/2023/05/03/%E5%BA%A6%E7%9B%98%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%81%E4%BF%9D%E5%A7%86%E7%BA%A7%EF%BC%8C%E5%8C%85%E6%95%99%E5%8C%85%E4%BC%9A%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="度盘秒传使用教程"><a href="#度盘秒传使用教程" class="headerlink" title="度盘秒传使用教程"></a>度盘秒传使用教程</h1><h2 id="开头"><a href="#开头" class="headerlink" title="开头"></a>开头</h2><p>大家好呀，我是繁花落雪，这是我博客的第一篇文章，也是第一篇教程。</p>
-<p>首先我先在这里自我介绍一下，我叫繁花落雪，是一个热爱技术，热爱分享的人，我非常的希望自己的经验和知识能够帮助到别人，当然我自己的知识储备并不多，所以我总是边学边分享。</p>
-<p>接下来的教程我希望大家能够认真的阅读文章哦。</p>
-<p>那么接下来我们开始吧！</p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>我们首先先需要准备一些东西，秒传其实是油猴的一个脚本，所以我们如果想在浏览器上使用秒传的话那么我们就需要先安装油猴。</p>
-<p>首先我们需要准备一下东西</p>
-<blockquote>
-<p>1.支持安装拓展的浏览器</p>
-<p>2.油猴插件、</p>
-<p>3.秒传脚本</p>
-</blockquote>
-<p>以上三样就是我们本期教程所要用到的东西。</p>
-<h2 id="1-安装支持拓展的浏览器"><a href="#1-安装支持拓展的浏览器" class="headerlink" title="1.安装支持拓展的浏览器"></a>1.安装支持拓展的浏览器</h2><p>市面上支持安装拓展的浏览器有很多，比如说：Googel chrome（谷歌浏览器），Firefox（火狐浏览器）,Edge（微软的）</p>
-<p>当然支持拓展的浏览器还有很多，我这里只列举了几个大家比较常用的浏览器，当然还有其他浏览器也可以。</p>
-<p>油猴的官网支持chrome，edge，firefox，safari，opera next浏览器，在他们官网可以下载到对应的插件。</p>
-<p>大家想要下载浏览器可以点击下面的链接。</p>
-<h4 id="链接总结"><a href="#链接总结" class="headerlink" title="链接总结"></a>链接总结</h4><p>1.<a href="http://www.firefox.com.cn/">火狐浏览器</a></p>
-<p>2.<a href="https://www.google.cn/chrome/">chrome浏览器</a></p>
-<p>3.<a href="https://www.microsoft.com/zh-cn/edge?form=MA13FJ">edge浏览器（这个win10自带）</a></p>
-<h2 id="2-安装油猴"><a href="#2-安装油猴" class="headerlink" title="2.安装油猴"></a>2.安装油猴</h2><p>1.脚本的下载</p>
-<p>首先先前往他们的官网获取相对应的脚本。</p>
-<p><img src="https://s2.loli.net/2023/05/07/QrIapDmgiEKNGkd.png" alt="屏幕截图 2023-05-07 142449.png"></p>
-<p>我这里使用的是火狐浏览器作为演示所有选择的是火狐浏览器。</p>
-<p><img src="https://s2.loli.net/2023/05/07/luGEWFkDPL4TQUi.png" alt="2.png"></p>
-<p>根据自己的需求下载对应版本的油猴，一般选择黑色的那个即可，点击去商店就可以直接在商店里面安装。</p>
-<p><img src="https://s2.loli.net/2023/05/07/UbiQjqfL1oIPsJ6.png" alt="3.png"></p>
-<h4 id="链接总结-1"><a href="#链接总结-1" class="headerlink" title="链接总结"></a>链接总结</h4><p>1.<a href="https://www.tampermonkey.net/">油猴官网</a></p>
-<p>2.<a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">油猴火狐商店下载地址</a></p>
-<p>3.<a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd">油猴edge商店下载地址</a></p>
-<p>4.<a href="https://data.tampermonkey.net/tampermonkey_stable.crx">油猴chrome脚本直链下载</a></p>
-<p>暂时总结这么多了，其他浏览器的请前往官网自行下载。</p>
-<h2 id="3-安装秒传脚本"><a href="#3-安装秒传脚本" class="headerlink" title="3.安装秒传脚本"></a>3.安装秒传脚本</h2><p>到这一步就非常简单了，我们只需要前往greasy fork下载秒传脚本即可。</p>
-<p><img src="https://s2.loli.net/2023/05/07/7VfnXtIsTip6mJL.png" alt="4.png"></p>
-<p>他们官网就是这个样子的，但是呢我这里已经安装过了。</p>
-<p><img src="https://s2.loli.net/2023/05/07/8NaVkxDz2MSQ5A7.png" alt="5.png"></p>
-<p>这个是没安装过的样子，如果你按照教程一步步走到这里，那么你只要点击‘安装此脚本’就好了。</p>
-<p><img src="https://s2.loli.net/2023/05/07/9Q17Kdiylp5FZth.png" alt="6.png"></p>
-<p><img src="https://s2.loli.net/2023/05/07/1emdfN5Ao7RZ2rI.png" alt="7.png"></p>
-<p>点击安装即可，这样就安装好了。</p>
-<h2 id="4-最后步骤"><a href="#4-最后步骤" class="headerlink" title="4.最后步骤"></a>4.最后步骤</h2><p>最后我们只需要打开度盘（<a href="https://pan.baidu.com/">度盘</a>）登录上自己的账号即可。</p>
-<p>安装好以后登录网页版度盘，顶部有下载那些按键的地方会出现这些东西。</p>
-<p><img src="https://s2.loli.net/2023/05/07/15ldtDsWp7ALeyk.png" alt="8.png"></p>
-<p>1是用来接收秒传文件的，2是用来生成秒传链接的。</p>
-<h3 id="如何接收秒传文件？"><a href="#如何接收秒传文件？" class="headerlink" title="如何接收秒传文件？"></a>如何接收秒传文件？</h3><p>点击上图1的‘秒传’那个按钮后会出现以下界面。</p>
-<p><img src="https://s2.loli.net/2023/05/07/VrZoltRQbGF7hY2.png" alt="10.png"></p>
-<p>把链接填进上面那个大的方框，然后只需要点击‘确定’就好了，如果想指定路径可以在下面方框填写，或者说进入到网盘指定目录后再转存文件也可以。</p>
-<p>秒传链接示例：</p>
-<blockquote>
-<p>5c496f9650d5adadbf23132218c753d4#4298754#gfzs-yxz.mp3</p>
-</blockquote>
-<h3 id="如何生成秒传链接？"><a href="#如何生成秒传链接？" class="headerlink" title="如何生成秒传链接？"></a>如何生成秒传链接？</h3><p>点击图中2以后会有一下界面。</p>
-<p><img src="https://s2.loli.net/2023/05/07/M3tFOdvmV4SB27g.png" alt="9.png"></p>
-<p>点击‘复制代码’即可。</p>
-<p><strong>注意！</strong></p>
-<p>需要先勾选你要分享的文件才可以生成秒传链接。</p>
-<h2 id="手机版如何使用秒传？"><a href="#手机版如何使用秒传？" class="headerlink" title="手机版如何使用秒传？"></a>手机版如何使用秒传？</h2><p>手机版比较简单，可以使用狐悠或者用油猴，这里只介绍油猴使用方法，狐悠容易出错。</p>
-<p>首先你需要先下载个‘x浏览器’</p>
-<p>然后打开greasy fork的秒传脚本下载地址。</p>
-<p><img src="https://s2.loli.net/2023/05/07/SZhITs7NBYbelvt.jpg" alt="Screenshot_2023-05-07-14-50-13-525_com.mmbox.xbro.jpg"></p>
-<p>然后开启“桌面模式”访问度盘网页版，记得一定要开“桌面模式”！</p>
-<p>然后接下来转存和生成的教程就和上面的一样了，详细请参照上文。</p>
-<p><strong>注意！</strong></p>
-<p><img src="https://s2.loli.net/2023/05/07/tYI3ik5FLPyfXrj.jpg" alt="Screenshot_2023-05-07-14-50-50-799_com.mmbox.xbro.jpg"></p>
-<p>在访问前请确保x浏览器开启了油猴脚本模式，这个是新版本新添加的功能，老版本请略过。</p>
-<h4 id="链接总结-2"><a href="#链接总结-2" class="headerlink" title="链接总结"></a>链接总结</h4><p>1.<a href="https://www.xbext.com/">x浏览器官网</a></p>
-<p>2.<a href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96">秒传脚本下载地址</a></p>
-<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p>这个教程写的真不容易，写了好久啊！如果各位觉得我的教程好的话，还请各位支持一下吧！点击下面的“打赏”即可，如果教程好的话请我喝瓶可乐吧！</p>
-<p>好了我们下期教程再见！</p>
-<p>本教程如果是商业转载请联系作者获取授权，如果是非商业转载的话请注明出处，谢谢。</p>
-<p>站长联系邮箱：<a href="mailto:&#x6e;&#121;&#x77;&#x6c;&#x6b;&#x65;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;">&#x6e;&#121;&#x77;&#x6c;&#x6b;&#x65;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;</a></p>
-]]></content>
-      <tags>
-        <tag>教程,秒传链接</tag>
       </tags>
   </entry>
 </search>
